@@ -1,3 +1,4 @@
+create readme for github 
 # 🌀 Rotary Die Calculator
 
 A modular Python application for selecting rotary die cylinders based on label dimensions, calculating optimal fit with minimum gap, and generating realistic SVG previews—including multi-repeat layouts and rounded corners.
@@ -68,4 +69,3 @@ Built by Ketan — pragmatic builder of modular manufacturing tools.
 ---
 
 Let me know if you'd like a badge section (e.g. Python version, license), or a GIF preview of the SVG layout. I can also help write a changelog or contribution guide if you're planning to open-source it.
-

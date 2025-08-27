@@ -18,6 +18,7 @@ git clone https://github.com/your-username/rotary_die_calc.git
 cd rotary_die_calc
 pip install -r requirements.txt
 
+```bash
 
 Requires Python 3.8+
 

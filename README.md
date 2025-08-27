@@ -1,5 +1,3 @@
-Absolutely, Ketan. Here's a clean, professional, and developer-friendly README.md for your rotary die calculator repository. It highlights your CLI tool, SVG generation, and GUI—all tailored to your modular style and manufacturing logic.
-
 # 🌀 Rotary Die Calculator
 
 A modular Python application for selecting rotary die cylinders based on label dimensions, calculating optimal fit with minimum gap, and generating realistic SVG previews—including multi-repeat layouts and rounded corners.
